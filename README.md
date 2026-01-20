@@ -1,8 +1,10 @@
-# Hi, I’m Seth Mensah 👋
+hi there, 👋🏿
+i'm Seth.
 
-Backend-focused Software Engineer who builds clean, maintainable systems with an emphasis on clarity, simplicity, and long-term sustainability.
+i build backend systems and break them
+to understand how they actually work.
 
-I care about designing software that is easy to understand, easy to change, and reliable in real-world use. I enjoy solving real problems, choosing tools based on context, and helping others learn along the way. I’m passionate about **community building**, **teaching fellow developers**, and contributing to **open-source projects** to make a broader impact.
+i help lead open-source initiatives across Africa.
 
-🔗 **Learn more about me, my work, and projects:**  
-👉 https://cerebrocerberus.com
+Learn more about me here: https://cerebrocerberus.com
+
