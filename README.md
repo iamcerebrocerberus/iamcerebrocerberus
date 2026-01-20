@@ -5,7 +5,8 @@ i'm Seth.
 i build backend systems and break them
 to understand how they actually work.
 
-i co-found and help lead open-source initiatives across Africa.
+i co-found and help lead [open-source initiatives](https://github.com/OSSAfrica) across Africa.
 
-https://cerebrocerus.com
+https://cerebrocerberus.com
+
 
