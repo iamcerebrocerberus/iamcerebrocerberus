@@ -1,4 +1,5 @@
 hi there, 👋🏿
+
 i'm Seth.
 
 i build backend systems and break them
