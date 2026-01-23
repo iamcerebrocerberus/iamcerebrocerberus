@@ -1,12 +1,8 @@
-hi there, 👋🏿
+Seth here 👋🏿
 
-i'm Seth.
-
-i build backend systems and break them
-to understand how they actually work.
-
-i co-found and help lead [open-source and security initiatives](https://github.com/OSSAfrica) across Africa.
+I build backend systems, break them, and study the failures.
+I co-found and lead [open-source and security](https://github.com/OSSAfrica) initiatives across Africa.
+Linux is my playground.
 
 https://cerebrocerberus.com
-
 
