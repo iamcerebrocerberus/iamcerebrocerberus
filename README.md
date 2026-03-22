@@ -2,7 +2,7 @@ Seth here 👋🏿
 
 I build backend systems, break them, and study the failures.
 
-I founded [Codetopia](https://codetopia.org)
+I'm the founder of [Codetopia](https://codetopia.org)
 
 I co-founded and lead [open-source and security](https://github.com/OSSAfrica) initiatives across Africa.
 
