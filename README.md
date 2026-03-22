@@ -4,7 +4,7 @@ I build backend systems, break them, and study the failures.
 
 I founded [Codetopia](https://codetopia.org)
 
-I co-found and lead [open-source and security](https://github.com/OSSAfrica) initiatives across Africa.
+I co-founded and lead [open-source and security](https://github.com/OSSAfrica) initiatives across Africa.
 
 Linux is my playground.
 
