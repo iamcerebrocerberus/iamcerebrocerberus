@@ -8,5 +8,5 @@ I co-found and lead [open-source and security](https://github.com/OSSAfrica) ini
 
 Linux is my playground.
 
-https://cerebrocerberus.com
+Visit https://cerebrocerberus.com to see what i'm currently working on.
 
