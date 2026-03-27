@@ -1,4 +1,6 @@
-Seth here 👋🏿
+Hi there 👋🏿
+
+I am Seth Mensah also known as cerebrocerberus in the tech space
 
 I build backend systems, break them, and study the failures.
 
