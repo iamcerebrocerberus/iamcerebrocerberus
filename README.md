@@ -10,5 +10,5 @@ I co-found and lead [open-source and security](https://github.com/OSSAfrica) ini
 
 Linux is my playground.
 
-Visit https://cerebrocerberus.com to see what i'm currently working on.
+Visit My [portfolio](https://cerebrocerberus.com) to see what i'm currently working on.
 
