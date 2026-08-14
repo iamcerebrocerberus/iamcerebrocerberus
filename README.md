@@ -8,7 +8,5 @@ I'm the founder of [Codetopia](https://codetopia.org)
 
 I co-found and lead [open-source and security](https://github.com/OSSAfrica) initiatives across Africa.
 
-Linux is my playground.
-
 Visit My [portfolio](https://cerebrocerberus.com) to see what i'm currently working on.
 
