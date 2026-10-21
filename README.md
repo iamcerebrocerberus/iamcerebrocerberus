@@ -1,12 +1,1 @@
-Hi there 👋🏿
-
-I am Seth Mensah also known as cerebrocerberus in the tech space
-
-I build backend systems, break them, and study the failures.
-
-Building [Codetopia](https://codetopia.org)
-
-I co-found and lead [open-source and security](https://github.com/OSSAfrica) initiatives across Africa.
-
-Visit my [portfolio](https://cerebrocerberus.com) to see what i'm currently working on.
-
+Hi 👋🏿 I'm Seth (cerebrocerberus). I build backend systems, working on [Codetopia](https://codetopia.org) and [OSSAfrica](https://github.com/OSSAfrica). More on my [portfolio](https://cerebrocerberus.com).
